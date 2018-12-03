@@ -1,3 +1,3 @@
 # lottery
 
-This will be our repository for creating a lottery DApp.
+This will be the repository for creating a lottery DApp.
