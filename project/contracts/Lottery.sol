@@ -6,6 +6,6 @@ contract Lottery{
 
     function Lottery() public{
       //Constructor  
-        player = "a";
+        player = "Shiv";
     }
 }
